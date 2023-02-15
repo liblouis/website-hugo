@@ -6,3 +6,4 @@ theme = 'hugo-book'
 [params]
 BookSearch = false
 BookComments = false
+BookSection = '/'
