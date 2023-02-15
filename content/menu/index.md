@@ -11,4 +11,5 @@ headless: true
 - [Downloads]({{< relref "/downloads" >}})
 - [Links]({{< relref "/links" >}})
 - [Sponsoring]({{< relref "/sponsoring" >}})
+- [Github](https://github.com/liblouis/liblouis)
 <br />
