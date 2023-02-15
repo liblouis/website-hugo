@@ -2,3 +2,7 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'liblouis'
 theme = 'hugo-book'
+
+[params]
+BookSearch = false
+BookComments = false
