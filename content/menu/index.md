@@ -6,6 +6,7 @@ headless: true
 - **Documentation**
   - [liblouis]({{< relref "/documentation/liblouis" >}})
   - [liblouisutdml]({{< relref "/documentation/liblouisutdml" >}})
+  - [Presentations]({{< relref "/presentations" >}})
 - [Try it online]({{< relref "/" >}})
 - [Downloads]({{< relref "/downloads" >}})
 - [Links]({{< relref "/links" >}})
