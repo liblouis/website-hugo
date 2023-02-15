@@ -9,4 +9,5 @@ headless: true
 - [Try it online]({{< relref "/" >}})
 - [Downloads]({{< relref "/downloads" >}})
 - [Links]({{< relref "/links" >}})
+- [Sponsoring]({{< relref "/sponsoring" >}})
 <br />
