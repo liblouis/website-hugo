@@ -7,3 +7,4 @@ theme = 'hugo-book'
 BookSearch = false
 BookComments = false
 BookSection = '/'
+BookLogo = 'logo.png'
