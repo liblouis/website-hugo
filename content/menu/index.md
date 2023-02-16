@@ -7,7 +7,7 @@ headless: true
   - [liblouis]({{< relref "/documentation/liblouis" >}})
   - [liblouisutdml]({{< relref "/documentation/liblouisutdml" >}})
   - [Presentations]({{< relref "/presentations" >}})
-- [Try it online]({{< relref "/" >}})
+- [Try it online]({{< relref "/try-it" >}})
 - [Downloads]({{< relref "/downloads" >}})
 - [Links]({{< relref "/links" >}})
 - [Sponsoring]({{< relref "/sponsoring" >}})
