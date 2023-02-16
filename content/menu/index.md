@@ -2,7 +2,7 @@
 headless: true
 ---
 
-- [News]({{< relref "/posts" >}})
+- [News]({{< relref "/news" >}})
 - **Documentation**
   - [liblouis]({{< relref "/documentation/liblouis" >}})
   - [liblouisutdml]({{< relref "/documentation/liblouisutdml" >}})
