@@ -1,0 +1,15 @@
+* What
+A very simple website for liblouis based on [[https://gohugo.io/][hugo]] and the [[https://themes.gohugo.io/themes/hugo-book/][book theme]].
+Essentially it should work pretty much like the existing site.
+
+* Why
+- Simple look :: I wanted a very simple look that handles
+  documentation well. The book theme provides this.
+- Few dependencies :: I've been burned by the [[https://jekyllrb.com/][Jekyll]] upgrade process
+  in the past. That's why I prefer a static site builder that comes as
+  a single binary like hugo.
+
+* Build
+#+begin_example
+hugo serve
+#+end_example
