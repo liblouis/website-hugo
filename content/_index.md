@@ -6,7 +6,7 @@ The Liblouis software suite provides an open-source braille translator, back-tra
 
 * Read our [publications & presentation slides](presentations)
 * Consult the [documentation](documentation)
-* Subscribe to our [mailing list](https://www.freelists.org/list/liblouis-liblouisxml) or chat with us on [irc](irc://irc.oftc.net/liblouis) (irc://irc.oftc.net/liblouis).
+* Subscribe to our [mailing list](https://www.freelists.org/list/liblouis-liblouisxml) or chat with us on [irc](https://web.libera.chat/#liblouis) (https://web.libera.chat/#liblouis).
 
 {{< columns >}} <!-- begin columns block -->
 
